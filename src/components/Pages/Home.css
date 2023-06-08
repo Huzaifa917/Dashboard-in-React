@@ -1,0 +1,7 @@
+.home{
+    flex: 4;
+}
+.stat{
+    display: flex;
+    margin: 15px;
+}
